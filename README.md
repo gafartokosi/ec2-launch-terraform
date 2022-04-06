@@ -9,5 +9,3 @@ The EC2 resource has the following arguments:
 - Associate public ip = true
 - Security group id
 - Tags
-
-# Hope this is helpful, thanks!
